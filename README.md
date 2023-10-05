@@ -16,4 +16,4 @@ Gani is a proficient professional with 9.5 years of accomplished experience in t
 ## Reach Me
 - [LinkedIn](https://www.linkedin.com/in/triwulunggani/)
 - [Github](https://github.com/triwgani)
-- [Email](tri.wgani@gmail.com)
+- Email: tri.wgani@gmail.com
