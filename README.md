@@ -6,6 +6,11 @@
 
 Gani is a proficient professional with 9.5 years of accomplished experience in the realm of Industrial Automation, seamlessly merging roles as a Business Development Manager and Project Engineer. He consistently showcases his expertise in Project Coordination and Execution, User Acceptance Testing, and Commissioning. Gani's adeptness in fostering Effective Communication among Stakeholders is palpable across a spectrum of industries—encompassing sectors from oil and gas to petrochemicals, pulp and paper, energy, fertilizer, as well as medical & healthcare. His skill set extends robustly to encompass Project Management, Commercial Business Development, and Data Analysis—an area of particular interest and enthusiasm, showcasing his commitment to lifelong learning. His data-driven approach underscores a profound fascination with extracting invaluable insights and discerning trends.
 
+## Protfolios
+- Data
+- Healthcare
+- Industrial Automation
+
 ## Certifications
 - Microsoft Power BI Desktop for Business Intelligence (2023) on [Udemy](https://www.udemy.com/certificate/UC-0764b02f-a488-455b-8190-8e2e7861fb37/)
 - Analyzing Growth Drivers & Business Risks on [CFI](https://credentials.corporatefinanceinstitute.com/e0d4f66d-6dc0-407d-b9df-05a3543330c4)
