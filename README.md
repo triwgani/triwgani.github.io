@@ -1,5 +1,7 @@
 # Hi, I'm Gani!
 
+![](../square.png)
+
 ## About Me
 
 Gani is a proficient professional with 9.5 years of accomplished experience in the realm of Industrial Automation, seamlessly merging roles as a Business Development Manager and Project Engineer. He consistently showcases his expertise in Project Coordination and Execution, User Acceptance Testing, and Commissioning. Gani's adeptness in fostering Effective Communication among Stakeholders is palpable across a spectrum of industries—encompassing sectors from oil and gas to petrochemicals, pulp and paper, energy, fertilizer, as well as medical & healthcare. His skill set extends robustly to encompass Project Management, Commercial Business Development, and Data Analysis—an area of particular interest and enthusiasm, showcasing his commitment to lifelong learning. His data-driven approach underscores a profound fascination with extracting invaluable insights and discerning trends.
