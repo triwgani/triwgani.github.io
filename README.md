@@ -9,6 +9,8 @@ Gani is a proficient professional with 9.5 years of accomplished experience in t
 ## Protfolios
 - Data
 - Healthcare
+- Product
+- Immersion Work
 - Industrial Automation
 
 ## Certifications
