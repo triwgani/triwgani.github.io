@@ -11,7 +11,7 @@ Gani is a proficient professional with 9.5 years of accomplished experience in t
 - Healthcare
 - Product
 - Immersion Work
-- Industrial Automation
+- [Industrial Automation](https://triwgani.github.io/Automation/)
 
 ## Certifications
 - Microsoft Power BI Desktop for Business Intelligence (2023) on [Udemy](https://www.udemy.com/certificate/UC-0764b02f-a488-455b-8190-8e2e7861fb37/)
