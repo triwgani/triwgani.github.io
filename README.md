@@ -10,7 +10,7 @@ Gani is a proficient professional with 9.5 years of accomplished experience in t
 - [Data](https://triwgani.github.io/Data/)
 - Healthcare
 - [Product Development](https://triwgani.github.io/Product/)
-- Immersion Work
+- [Immersion Work](https://triwgani.github.io/Immersion/)
 - [Industrial Automation](https://triwgani.github.io/Automation/)
 
 ## Certifications
