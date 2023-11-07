@@ -18,7 +18,6 @@ Gani is a proficient professional with 9.5 years of accomplished experience in t
 - Analyzing Growth Drivers & Business Risks on [CFI](https://credentials.corporatefinanceinstitute.com/e0d4f66d-6dc0-407d-b9df-05a3543330c4)
 - DATA ANALYSIS: FULLSTACK INTENSIVE BOOTCAMP on [MySkill](https://storage.googleapis.com/myskill-v2-certificates/bootcamp-7LjO9hbxJCmeoIxbGYBb/8Zlr4195exaiVlWHpxnn8YEJtMG2-B6EsxJflcTJFURSGlZHM.pdf)
 - Fundamentals of Agile Project Management on [PMI](https://www.credly.com/badges/09671fc9-8e25-4ad3-9a8f-c2ab9830ee8c/public_url)
-- Fundamentals of Waterfall Project Management on [PMI](https://www.credly.com/badges/09671fc9-8e25-4ad3-9a8f-c2ab9830ee8c/public_url)
 - Certified Project Manager (IAPM) - Credential ID WUN86Y73184D
 - Product Management on [Binar Academy](https://drive.google.com/file/d/1DMaxFilWn0Pzv-4Hpt-JQU1Y_HnxiDox/view)
 
