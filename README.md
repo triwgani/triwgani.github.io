@@ -12,7 +12,7 @@ Gani is a proficient professional with 10.5 years of accomplished experience. Ho
 - [Product Development](https://triwgani.github.io/Product/)
 - [Immersion Work](https://triwgani.github.io/Immersion/)
 - [Industrial Automation](https://triwgani.github.io/Automation/)
-- [Case Studies](https://triwgani.github.io/CaseStudies/)
+- Case Studies
 
 ## Certifications
 - Microsoft Power BI Desktop for Business Intelligence (2023) on [Udemy](https://www.udemy.com/certificate/UC-0764b02f-a488-455b-8190-8e2e7861fb37/)
