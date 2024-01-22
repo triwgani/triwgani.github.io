@@ -21,6 +21,9 @@ Gani is a proficient professional with 10.5 years of accomplished experience. Ho
 - Certified Project Manager (IAPM) - [Credential](https://www.iapm.net/en/service/certificate-validation/) ID WUN86Y73184D
 - Product Management on [Binar Academy](https://drive.google.com/file/d/1DMaxFilWn0Pzv-4Hpt-JQU1Y_HnxiDox/view)
 
+## Techstacks
+MS Office, Excel, Power BI, Tableau, Looker, PostgreSQL, Power Query, MS Project, G-Suite, Centum VP (DCS/ICS), Prosafe-RS (SIS), Moxa, Exa-OPC & Matricon-OPC (OLE Process Control).  
+
 ## Reach Me
 - [LinkedIn](https://www.linkedin.com/in/triwulunggani/)
 - [Github](https://github.com/triwgani)
